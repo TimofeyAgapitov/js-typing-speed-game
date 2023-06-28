@@ -1,1 +1,2 @@
-# js-typing-speed-game
+# Javascript Typing Speed Game
+
